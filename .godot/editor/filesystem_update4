@@ -1,0 +1,5 @@
+res://scenes/game.tscn
+res://scenes/ground.tscn
+res://scenes/player.tscn
+res://scripts/player.gd
+res://scenes/plaform.tscn
