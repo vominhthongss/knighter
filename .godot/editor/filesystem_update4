@@ -3,3 +3,8 @@ res://scenes/ground.tscn
 res://scenes/player.tscn
 res://scripts/player.gd
 res://scenes/plaform.tscn
+res://scenes/coin.tscn
+res://scenes/coin.gd
+res://scripts/coin.gd
+res://scenes/killzone.tscn
+res://scripts/killzone.gd
